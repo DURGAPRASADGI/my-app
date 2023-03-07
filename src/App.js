@@ -11,7 +11,7 @@ const App = () => {
         a="\images\a1.jpg"
         b="\images\a10.jpg"
         c="\images\a3.png"
-        n1="venu"
+        n1="priya"
         n2="Ethan"
         n3="Amelia"
         p1="Data Scientist"
